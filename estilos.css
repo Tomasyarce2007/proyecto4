@@ -1,6 +1,10 @@
 .fondo{background-color: plum;
 
 }
-.parrafo{text-align: justify;
-text-decoration: double;
+.parrafo{text-align: center;
+text-decoration:double;
+}
+.texto{
+    text-align: center;
+    font-style: oblique;
 }
