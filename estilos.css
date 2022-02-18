@@ -3,8 +3,13 @@
 }
 .parrafo{text-align: center;
 text-decoration:double;
+font-size: 23px;
 }
 .texto{
     text-align: center;
     font-style: oblique;
 }
+.j{text-align: right;
+font-size: 30px;
+}
+.t{font-size: 45px}
