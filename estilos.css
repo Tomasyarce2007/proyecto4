@@ -2,14 +2,17 @@
 
 }
 .parrafo{text-align: center;
-text-decoration:double;
-font-size: 23px;
+font-size: 25px;
 }
 .texto{
     text-align: center;
     font-style: oblique;
+    font-size: 20px;
 }
 .j{text-align: right;
 font-size: 30px;
 }
 .t{font-size: 45px}
+.h{
+    font-size: 25px
+}
